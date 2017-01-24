@@ -1,0 +1,30 @@
+{
+  "name": "slack_builder",
+  "version": "1.0.0",
+  "description": "slack text builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/botdio/slack_builder.git"
+  },
+  "keywords": [
+    "slack",
+    "es6",
+    "js",
+    "builder"
+  ],
+  "author": "huan9huan <hhhust@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botdio/slack_builder/issues"
+  },
+  "homepage": "https://github.com/botdio/slack_builder#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  }
+}
