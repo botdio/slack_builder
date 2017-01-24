@@ -1,4 +1,5 @@
 # slack_builder
+[![Build Status](https://travis-ci.org/botdio/slack_builder.svg?branch=master)](https://travis-ci.org/botdio/slack_builder)
 use builder design pattern to compose the slack simple Markdown text, in chain style
 
 ## examples:
